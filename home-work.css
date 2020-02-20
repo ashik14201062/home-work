@@ -8,6 +8,9 @@ h2{
     padding: 0 7%;
     
 }
+h2:hover {
+    color: red;
+}
 
 
 h3 {
