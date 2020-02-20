@@ -1,0 +1,127 @@
+body {
+    font-family: 'Squada One', cursive;
+    
+}
+h2{
+    color:  rgb(0, 225, 255);
+    font-size: 50px;
+    padding: 0 7%;
+    
+}
+
+
+h3 {
+    font-size: 30px;
+    padding: 0 7%;
+}
+h4{
+    font-size: 40px;
+    padding: 0 7%;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+h5{
+    text-align: center;
+    font-size: 40px;
+}
+h5:hover{
+    font-size: 53px;
+}
+p{
+    padding: 0 7%; 
+}
+.button{
+    padding: 1% 0 0 7%;
+}
+.link-button{
+    border: 1px solid yellowgreen;
+    text-decoration: none;
+    background-image: linear-gradient(  45deg,yellow, rgb(0, 225, 255) );
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 700;
+}
+}
+.top{
+    background-image: url(images/header-bg.png);
+    
+}
+section {
+    height: 600px;
+    padding-bottom: 500px;
+}
+.header-image {
+    width: 100%;
+    
+}
+.top-quater {
+    float: left;
+    width: 38%;
+    padding: 3%;
+    margin: 3%;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.latest-img{
+    width: 100%;
+}
+.leftImgs, 
+.centerImgs,
+.rightImgs {
+    display: inline-block;
+    width: 26%;
+   
+}
+.leftImgs{
+    padding: 0 1% 0 15%;
+}
+.rightImgs {
+    padding: 0 0 0 1%;
+}
+.companny{
+    text-align: center;
+    padding: 0 0 1% 0;
+}
+.compliment{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.buttomunit {
+    background-image: url(images/footer-bg.png);
+    
+
+}
+.leater {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+#lettersiz {
+    font-size: 15px;
+    text-align: justify;
+}
+.message-box {
+    text-align: center;
+    padding: 3%;
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    position: relative;
+    left: 500px;
+    background-image: linear-gradient(  45deg,yellow, rgb(0, 225, 255) );
+    color: white;
+}
+footer {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.calculation{
+    padding-top: 10%;
+}
