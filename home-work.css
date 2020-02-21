@@ -8,6 +8,9 @@ h2{
     padding: 0 7%;
     
 }
+h2:hover {
+    color: red;
+}
 
 
 h3 {
@@ -35,6 +38,11 @@ p{
 .button{
     padding: 1% 0 0 7%;
 }
+.top{
+    background-image: url(images/header-bg.png);
+    
+}
+
 .link-button{
     border: 1px solid yellowgreen;
     text-decoration: none;
@@ -44,11 +52,8 @@ p{
     color: white;
     font-weight: 700;
 }
-}
-.top{
-    background-image: url(images/header-bg.png);
-    
-}
+
+
 section {
     height: 600px;
     padding-bottom: 500px;
